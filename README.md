@@ -24,7 +24,7 @@
 ```bash
 # 1. Clonare repository
 git clone <repository-url>
-cd clasificator-companii
+cd Company-Classifier
 # 2. Creare mediu virtual
 python -m venv venv
 .\venv\Scripts\activate  # Windows
